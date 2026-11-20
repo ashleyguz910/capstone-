@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "scavenger_hunt_prototype" "\0"
+            VALUE "FileDescription", "class_1" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "scavenger_hunt_prototype" "\0"
+            VALUE "InternalName", "class_1" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "scavenger_hunt_prototype.exe" "\0"
-            VALUE "ProductName", "scavenger_hunt_prototype" "\0"
+            VALUE "OriginalFilename", "class_1.exe" "\0"
+            VALUE "ProductName", "class_1" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
