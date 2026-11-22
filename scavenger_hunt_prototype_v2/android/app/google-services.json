@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655764599511",
+    "project_id": "downtown-explorer-prototype",
+    "storage_bucket": "downtown-explorer-prototype.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655764599511:android:fa2848330e10f700b37692",
+        "android_client_info": {
+          "package_name": "com.example.class_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN-jce0nMSUQu6Uh4M8zgP0BqEIjGmfoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
